@@ -4,5 +4,5 @@ A video of lidar point cloud visual representation and a web image of an apartme
 ![Royal Lexington](Royal_Lexington.jpg)     
 Royal Lexington
 
-![Screenshot of animation](animation.jPG)     
+![Screenshot of animation](animation.jpg)     
 *[Royal Lexington Animation](https://www.youtube.com/watch?v=JLcsstkDkX0)*
